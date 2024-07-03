@@ -1,11 +1,11 @@
 import { useState, useEffect } from "react";
-import { SearchBar } from "./Components/SearchBar/SearchBar.jsx";
+import { SearchBar } from "./components/SearchBar/SearchBar.jsx";
 import { getImages } from "./api.js";
-import { ImageGallery } from "./Components/ImageGallery/ImageGallery.jsx";
-import { ErrorMessage } from "./Components/ErrorMessage/ErrorMessage.jsx";
-import { ImageModal } from "./Components/ImageModal/ImageModal.jsx";
-import { LoadMoreBtn } from "./Components/LoadMoreBtn/LoadMoreBtn.jsx";
-import { Spiner } from "./Components/Spiner/Spiner.jsx";
+import { ImageGallery } from "./components/ImageGallery/ImageGallery.jsx";
+import { ErrorMessage } from "./components/ErrorMessage/ErrorMessage.jsx";
+import { ImageModal } from "./components/ImageModal/ImageModal.jsx";
+import { LoadMoreBtn } from "./components/LoadMoreBtn/LoadMoreBtn.jsx";
+import { Spiner } from "./components/Spiner/Spiner.jsx";
 
 import "./App.css";
 
