@@ -10,7 +10,7 @@ export const getImages = async (newValue, page) => {
       page,
     },
     headers: {
-      Authorization: "Client-ID IlXsbewGNqVaNKquaQuDRoWbs5SAsrnIfb40xq0fxpc",
+      Authorization: "Client-ID 3avK14TIHDaWaoWRHixnmvuGZrTgx4D4_OldARedrxY",
       "Accept-Version": "v1",
     },
   });
